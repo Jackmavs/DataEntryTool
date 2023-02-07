@@ -10,3 +10,5 @@ DLE: Jupyter Notebook 6.4.12
 Packages: tkinter, openpyxl, os, tkmacosx, functools
 
 Data: Surveyor, Location, Site, Date, Peak, Weather, and 22 characters of pedestrians
+
+The excel table (worksheet1) should be under same folder as the code.
