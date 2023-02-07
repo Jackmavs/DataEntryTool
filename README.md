@@ -1,5 +1,5 @@
 # DataEntryTool
-This data entry tool can help the surveyors automatically entry the pedestrians observation data.
+This data entry tool can help the surveyors automatically enter the observation data of pedestrians.
 
 It should be noticed that this version is only for Mac.
 If you want to run this code on Windows. 
